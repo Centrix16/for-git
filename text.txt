@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+
+=======
 Hi git
+bla
+Hi git
+bla bla bla
+>>>>>>> iss54
